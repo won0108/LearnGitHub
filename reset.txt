@@ -1,4 +1,3 @@
 'reset test' 
 'test1' 
-'test2' 
-reset merge test
+'test2'
