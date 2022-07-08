@@ -7,3 +7,4 @@ eee
 rrr
 testtest
 hi test
+test txt merge test
