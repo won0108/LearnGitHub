@@ -1,7 +1,0 @@
-"LearGitHub test" 
-"test" 
-"ttt" 
-"tt1" 
-eee
-rrr
-dddd
