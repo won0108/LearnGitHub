@@ -2,3 +2,7 @@ hi
 testtest
 test1dddd
 test1 merge test
+
+origin/master test1
+
+머지 통합
